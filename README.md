@@ -1,1 +1,1 @@
-This is a CS 253 Practice with Aiden, Gabby and Flora.
+This is a CS 253 Practice with Aidan, Gabby and Flora.
